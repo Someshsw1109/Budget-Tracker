@@ -11,6 +11,7 @@
   *2-Add expenses by entering the amount they spent.*
   
   *3-View the current balance to see how much money they have left.*
+  
 **Continuous Operation: The program runs in a loop, repeatedly offering the menu options until the user chooses to exit by selecting the "Exit" option.**
 
 **Simple Input/Output: The application uses a Scanner for input and basic System.out.println statements to display information and prompt the user.**
