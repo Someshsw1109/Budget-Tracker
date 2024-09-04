@@ -7,7 +7,9 @@
 *User Interaction: The application uses a menu-based system to interact with the user. The user can:*
 
   *1-Add income by entering the amount they earned.*
+  
   *2-Add expenses by entering the amount they spent.*
+  
   *3-View the current balance to see how much money they have left.*
 **Continuous Operation: The program runs in a loop, repeatedly offering the menu options until the user chooses to exit by selecting the "Exit" option.**
 
